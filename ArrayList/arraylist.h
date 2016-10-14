@@ -1,6 +1,8 @@
-//21.01.16
+// 21.01.16
 // Implement the template class ArrayList
-// The main program first reads in a single integer, initialSize, denoting what the initial size should be.  The next integer, count, denotes how many elements follow, and then count values are given which comprise the list elements.  The above is first carried out for a list of integers and then a list of strings.
+/* The main program first reads in a single integer, initialSize, denoting what the initial size should be.  
+    The next integer, count, denotes how many elements follow, and then count values are given which comprise the list elements.  
+    The above is first carried out for a list of integers and then a list of strings.*/
 
 #ifndef ARRAYLIST_H
 #define ARRAYLIST_H
