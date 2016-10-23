@@ -1,3 +1,5 @@
+// 15.01.2016
+
 #include "Matrix.h"
 
 Matrix:: Matrix(int rows, int cols )
